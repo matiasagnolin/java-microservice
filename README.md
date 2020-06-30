@@ -50,7 +50,7 @@ CQRS, REST, Web Sockets, Continuous deploy with Jenkins, and all developed using
 
 ![Alt text](assets/microservices-arch.jpg?raw=true "microservices architecture")
 
-
+.
 ## How to use
 
 * run `package-projects.sh`
